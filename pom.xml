@@ -8,7 +8,8 @@
     <artifactId>DesignPattern</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>DecoratorPattern</module>
+        <module>Decorator</module>
+        <module>Observer</module>
     </modules>
 
     <packaging>pom</packaging>
